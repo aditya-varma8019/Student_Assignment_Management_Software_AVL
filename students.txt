@@ -1,0 +1,12 @@
+101 John 102 1 Assignment1 1 15/05/2023 submitted 90.5 80.0
+102 Jane 101 1 Assignment1 1 15/05/2023 submitted 85.0 70.0
+103 Mark 104 2 Assignment2 2 25/05/2023 not-submitted -1.0 -1.0
+104 Emma 103 2 Assignment2 2 25/05/2023 not-submitted -1.0 -1.0
+105 Michael 106 3 Assignment3 3 01/06/2023 evaluated 75.0 70.0
+106 Rachel 105 3 Assignment3 3 01/06/2023 evaluated 80.5 85.0
+107 Alex 108 4 Assignment4 4 15/06/2023 submitted -1.0 -1.0
+108 Samantha 107 4 Assignment4 4 15/06/2023 submitted -1.0 -1.0
+109 William 110 5 Assignment5 5 30/06/2023 evaluated 95.5 90.5
+110 Elizabeth 109 5 Assignment5 5 30/06/2023 evaluated 80.0 85.5
+111 James 112 6 Assignment5 5 30/06/2023 evaluated 100.0 100.0
+112 Tony 111 6 Assignment5 5 30/06/2023 evaluated 100.0 100.0
