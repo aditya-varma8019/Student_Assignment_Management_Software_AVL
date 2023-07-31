@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 #include <ctype.h>
 
-#define MAX 4
-#define MIN 2
 
 typedef struct Student_record
 {
